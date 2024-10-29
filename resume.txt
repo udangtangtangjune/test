@@ -1,1 +1,7 @@
-gjlee
+experience : x  
+
+degree : master of science 
+
+name : june.lee 
+
+age : 27
