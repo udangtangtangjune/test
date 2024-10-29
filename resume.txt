@@ -1,3 +1,12 @@
 gjlee
+
 kkkkkkkkkkk
 stack : python, C++, fortran90 and else
+
+experience : x  
+
+degree : master of science 
+
+name : june.lee 
+
+age : 27
